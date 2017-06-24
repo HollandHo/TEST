@@ -1,2 +1,0 @@
-# TEST
-Practice Repository
